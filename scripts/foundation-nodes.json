@@ -1,0 +1,416 @@
+[
+  {
+    "id": "rad-ren",
+    "type": "radical",
+    "hskLevel": 1,
+    "orderIndex": 0,
+    "title": "人",
+    "pinyin": "rén",
+    "meaning": "persona / essere umano",
+    "explanation": "人 è il radicale della «persona»: è un pittogramma che rappresenta un essere umano in piedi, visto di profilo, con le due gambe che avanzano. È uno dei radicali più produttivi del cinese: quando compare sul lato sinistro di un carattere si trasforma nella forma compressa 亻 (es. in 你). Riconoscerlo è il primo passo per decodificare moltissimi caratteri.",
+    "examples": [
+      {
+        "zh": "人",
+        "pinyin": "rén",
+        "it": "persona"
+      },
+      {
+        "zh": "大人",
+        "pinyin": "dàrén",
+        "it": "adulto (lett. «persona grande»)"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "rad-ren-ex1",
+        "type": "multiple_choice",
+        "question": "Quale carattere è il radicale di «persona»?",
+        "options": [
+          "人",
+          "入",
+          "八",
+          "大"
+        ],
+        "correctAnswer": "人",
+        "explanation": "人 ha il tratto sinistro che parte dall'alto; 入 (entrare) ha invece il tratto che copre dall'alto a destra, mentre 八 (otto) ha i due tratti separati."
+      },
+      {
+        "id": "rad-ren-ex2",
+        "type": "pinyin_match",
+        "question": "Qual è il pinyin corretto di 人?",
+        "options": [
+          "rén",
+          "rèn",
+          "lén",
+          "én"
+        ],
+        "correctAnswer": "rén",
+        "explanation": "人 si legge «rén» (secondo tono). «rèn» (quarto tono) è un suono diverso (es. 认)."
+      },
+      {
+        "id": "rad-ren-ex3",
+        "type": "multiple_choice",
+        "question": "In che cosa si trasforma 人 sul lato sinistro di un carattere?",
+        "options": [
+          "亻",
+          "彳",
+          "冫",
+          "刂"
+        ],
+        "correctAnswer": "亻",
+        "explanation": "A sinistra 人 diventa 亻 (es. 你, 他). 彳 è invece il radicale del «passo», 冫 il «ghiaccio» e 刂 la «lama»."
+      }
+    ],
+    "prerequisites": [],
+    "traditional": "人",
+    "unit": 0,
+    "unitTitle": "Unità 0: Primi Passi"
+  },
+  {
+    "id": "rad-nu",
+    "type": "radical",
+    "hskLevel": 1,
+    "orderIndex": 1,
+    "title": "女",
+    "pinyin": "nǚ",
+    "meaning": "donna",
+    "explanation": "女 è il radicale della «donna». Deriva dal disegno stilizzato di una figura inginocchiata con le braccia incrociate, posizione comune nella scrittura arcaica. È un componente fondamentale perché entra in moltissimi caratteri legati a famiglia e relazioni (es. 好, 妈, 她). Nota l'ordine dei tratti: prima la curva a sinistra, poi il tratto lungo obliquo, infine quello orizzontale.",
+    "examples": [
+      {
+        "zh": "女",
+        "pinyin": "nǚ",
+        "it": "donna"
+      },
+      {
+        "zh": "女人",
+        "pinyin": "nǚrén",
+        "it": "donna (adulta) — combina 女 + 人"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "rad-nu-ex1",
+        "type": "multiple_choice",
+        "question": "Quale di questi caratteri significa «donna»?",
+        "options": [
+          "女",
+          "母",
+          "毋",
+          "安"
+        ],
+        "correctAnswer": "女",
+        "explanation": "女 è il radicale base. 母 (madre) aggiunge due punti, 安 (pace) la mette sotto un tetto 宀."
+      },
+      {
+        "id": "rad-nu-ex2",
+        "type": "pinyin_match",
+        "question": "Qual è il pinyin corretto di 女?",
+        "options": [
+          "nǚ",
+          "nú",
+          "nǔ",
+          "lǘ"
+        ],
+        "correctAnswer": "nǚ",
+        "explanation": "女 si legge «nǚ»: attenzione alla ü (u con due puntini) e al terzo tono. «nú» significa invece «schiavo» (奴)."
+      },
+      {
+        "id": "rad-nu-ex3",
+        "type": "multiple_choice",
+        "question": "Quale parola si forma unendo 女 + 人?",
+        "options": [
+          "女人 (donna)",
+          "人女",
+          "大女",
+          "女大"
+        ],
+        "correctAnswer": "女人 (donna)",
+        "explanation": "L'ordine corretto è 女人 (nǚrén), «donna (adulta)». In cinese il radicale qualificante precede 人."
+      }
+    ],
+    "prerequisites": [
+      "rad-ren"
+    ],
+    "traditional": "女",
+    "unit": 0,
+    "unitTitle": "Unità 0: Primi Passi"
+  },
+  {
+    "id": "rad-zi",
+    "type": "radical",
+    "hskLevel": 1,
+    "orderIndex": 2,
+    "title": "子",
+    "pinyin": "zǐ",
+    "meaning": "bambino / figlio",
+    "explanation": "子 rappresenta un «bambino»: in origine disegnava un neonato in fasce con la testa grande e le braccia aperte, da cui il tratto orizzontale centrale. Oltre a «figlio», 子 è un suffisso nominale frequentissimo (es. 桌子 tavolo). Memorizzalo bene: insieme a 女 forma uno dei caratteri più importanti dell'HSK 1, cioè 好.",
+    "examples": [
+      {
+        "zh": "子",
+        "pinyin": "zǐ",
+        "it": "figlio / bambino"
+      },
+      {
+        "zh": "儿子",
+        "pinyin": "érzi",
+        "it": "figlio (maschio)"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "rad-zi-ex1",
+        "type": "multiple_choice",
+        "question": "Quale carattere significa «bambino/figlio»?",
+        "options": [
+          "子",
+          "了",
+          "孑",
+          "字"
+        ],
+        "correctAnswer": "子",
+        "explanation": "子 ha il tratto orizzontale centrale completo. 了 non ha quel tratto; 孑 è una variante rara; 字 (carattere) aggiunge il tetto 宀 sopra 子."
+      },
+      {
+        "id": "rad-zi-ex2",
+        "type": "pinyin_match",
+        "question": "Qual è il pinyin corretto di 子 (da solo)?",
+        "options": [
+          "zǐ",
+          "zì",
+          "cǐ",
+          "zhǐ"
+        ],
+        "correctAnswer": "zǐ",
+        "explanation": "Isolato 子 si legge «zǐ» (terzo tono). Attenzione a non confonderlo con «zhǐ» (retroflessa) o «zì» (字)."
+      },
+      {
+        "id": "rad-zi-ex3",
+        "type": "multiple_choice",
+        "question": "Quali due radicali compongono il carattere 好?",
+        "options": [
+          "女 + 子",
+          "人 + 子",
+          "女 + 了",
+          "子 + 女 scambiati"
+        ],
+        "correctAnswer": "女 + 子",
+        "explanation": "好 = 女 (donna) a sinistra + 子 (bambino) a destra. L'ordine è fisso: 女 precede sempre 子."
+      }
+    ],
+    "prerequisites": [
+      "rad-nu"
+    ],
+    "traditional": "子",
+    "unit": 0,
+    "unitTitle": "Unità 0: Primi Passi"
+  },
+  {
+    "id": "hanzi-hao",
+    "type": "hanzi",
+    "hskLevel": 1,
+    "orderIndex": 3,
+    "title": "好",
+    "pinyin": "hǎo",
+    "meaning": "buono / bene",
+    "explanation": "好 è un carattere composto (会意, «composto logico»): unisce 女 (donna) e 子 (bambino). L'immagine di una madre con il suo bambino veicola l'idea di qualcosa di «buono, armonioso, positivo». Si scrive sempre 女 a sinistra e 子 a destra. È uno dei caratteri più usati in assoluto e la base del saluto 你好.",
+    "examples": [
+      {
+        "zh": "很好",
+        "pinyin": "hěn hǎo",
+        "it": "molto bene"
+      },
+      {
+        "zh": "好人",
+        "pinyin": "hǎo rén",
+        "it": "una brava persona"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "hanzi-hao-ex1",
+        "type": "multiple_choice",
+        "question": "Quale carattere significa «buono/bene»?",
+        "options": [
+          "好",
+          "女",
+          "子",
+          "妈"
+        ],
+        "correctAnswer": "好",
+        "explanation": "好 è l'unione di 女 + 子. Da soli 女 (donna) e 子 (bambino) hanno altri significati; 妈 (mamma) contiene 女 + 马."
+      },
+      {
+        "id": "hanzi-hao-ex2",
+        "type": "pinyin_match",
+        "question": "Qual è il pinyin corretto di 好 (nel senso di «buono»)?",
+        "options": [
+          "hǎo",
+          "hào",
+          "háo",
+          "hǎn"
+        ],
+        "correctAnswer": "hǎo",
+        "explanation": "Nel significato «buono» è «hǎo» (terzo tono). Con il quarto tono «hào» cambia senso in «amare/apprezzare»."
+      },
+      {
+        "id": "hanzi-hao-ex3",
+        "type": "multiple_choice",
+        "question": "Qual è la disposizione corretta dei componenti di 好?",
+        "options": [
+          "女 a sinistra, 子 a destra",
+          "子 a sinistra, 女 a destra",
+          "女 sopra, 子 sotto",
+          "子 sopra, 女 sotto"
+        ],
+        "correctAnswer": "女 a sinistra, 子 a destra",
+        "explanation": "好 è una struttura sinistra-destra: 女 (donna) a sinistra, 子 (bambino) a destra."
+      }
+    ],
+    "prerequisites": [
+      "rad-nu",
+      "rad-zi"
+    ],
+    "traditional": "好",
+    "unit": 0,
+    "unitTitle": "Unità 0: Primi Passi"
+  },
+  {
+    "id": "hanzi-ni",
+    "type": "hanzi",
+    "hskLevel": 1,
+    "orderIndex": 4,
+    "title": "你",
+    "pinyin": "nǐ",
+    "meaning": "tu",
+    "explanation": "你 significa «tu». È composto da 亻 (la forma a sinistra del radicale 人, «persona») più 尔 (un antico pronome che significava «tu/quello»). Il radicale 亻 segnala che il carattere ha a che fare con una persona: logico, dato che «tu» indica un essere umano. Riconoscere 亻 come variante di 人 è la chiave per leggere questo carattere.",
+    "examples": [
+      {
+        "zh": "你",
+        "pinyin": "nǐ",
+        "it": "tu"
+      },
+      {
+        "zh": "你们",
+        "pinyin": "nǐmen",
+        "it": "voi (plurale di «tu»)"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "hanzi-ni-ex1",
+        "type": "multiple_choice",
+        "question": "Quale carattere significa «tu»?",
+        "options": [
+          "你",
+          "他",
+          "们",
+          "尔"
+        ],
+        "correctAnswer": "你",
+        "explanation": "你 = 亻 + 尔. 他 (lui) è 亻 + 也; 们 è il suffisso plurale; 尔 da solo è solo un componente arcaico."
+      },
+      {
+        "id": "hanzi-ni-ex2",
+        "type": "pinyin_match",
+        "question": "Qual è il pinyin corretto di 你?",
+        "options": [
+          "nǐ",
+          "nín",
+          "nǚ",
+          "lǐ"
+        ],
+        "correctAnswer": "nǐ",
+        "explanation": "你 si legge «nǐ» (terzo tono). «nín» (您) è la forma di cortesia; «nǚ» (女) significa donna."
+      },
+      {
+        "id": "hanzi-ni-ex3",
+        "type": "multiple_choice",
+        "question": "Quale radicale, presente in 你, indica che riguarda una persona?",
+        "options": [
+          "亻 (variante di 人)",
+          "尔",
+          "小",
+          "水"
+        ],
+        "correctAnswer": "亻 (variante di 人)",
+        "explanation": "Il radicale di sinistra 亻 è la forma compressa di 人 (persona): per questo 你 è classificato tra i caratteri «umani»."
+      }
+    ],
+    "prerequisites": [
+      "rad-ren"
+    ],
+    "traditional": "你",
+    "unit": 0,
+    "unitTitle": "Unità 0: Primi Passi"
+  },
+  {
+    "id": "phrase-nihao",
+    "type": "vocab",
+    "hskLevel": 1,
+    "orderIndex": 5,
+    "title": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Ciao / Salve",
+    "explanation": "你好 è il saluto più famoso del cinese: letteralmente «tu + bene», cioè l'augurio «che tu stia bene». Unisce i due caratteri già studiati: 你 (tu) e 好 (buono). È il primo esempio di come i singoli caratteri si combinano in parole ed espressioni. Nota che nel saluto 好 mantiene il terzo tono isolato nella scrittura, ma nella pronuncia reale 你好 subisce il «tone sandhi»: due terzi toni di fila fanno diventare il primo un secondo tono (ní hǎo).",
+    "examples": [
+      {
+        "zh": "你好！",
+        "pinyin": "nǐ hǎo!",
+        "it": "Ciao! / Salve!"
+      },
+      {
+        "zh": "你好吗？",
+        "pinyin": "nǐ hǎo ma?",
+        "it": "Come stai? (lett. «tu bene?»)"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "phrase-nihao-ex1",
+        "type": "multiple_choice",
+        "question": "Come si dice «Ciao» in cinese?",
+        "options": [
+          "你好",
+          "好你",
+          "再见",
+          "你们"
+        ],
+        "correctAnswer": "你好",
+        "explanation": "你好 (nǐ hǎo) è «ciao». 好你 non esiste come saluto; 再见 (zàijiàn) è «arrivederci»."
+      },
+      {
+        "id": "phrase-nihao-ex2",
+        "type": "sentence_order",
+        "question": "Ordina i caratteri per formare il saluto «ciao» (dal primo all'ultimo):",
+        "options": [
+          "你 → 好",
+          "好 → 你",
+          "你 → 你",
+          "好 → 好"
+        ],
+        "correctAnswer": "你 → 好",
+        "explanation": "L'ordine corretto è 你 (tu) seguito da 好 (bene): 你好."
+      },
+      {
+        "id": "phrase-nihao-ex3",
+        "type": "pinyin_match",
+        "question": "Qual è la pronuncia reale di 你好 considerando il tone sandhi?",
+        "options": [
+          "ní hǎo",
+          "nǐ hǎo",
+          "nì hào",
+          "nǐ hào"
+        ],
+        "correctAnswer": "ní hǎo",
+        "explanation": "Due terzi toni consecutivi: il primo diventa secondo tono, quindi si pronuncia «ní hǎo» anche se si scrive nǐ hǎo."
+      }
+    ],
+    "prerequisites": [
+      "hanzi-ni",
+      "hanzi-hao"
+    ],
+    "traditional": "你好",
+    "unit": 0,
+    "unitTitle": "Unità 0: Primi Passi"
+  }
+]
